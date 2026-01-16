@@ -32,6 +32,23 @@ Python Programming Internship at CodSoft.
      1. Download the repository
      2. Open terminal or command prompt
      3. Run: python Password_Generator.py
+
+- Task 4: Rock-Paper-Scissors Game :-
+  This project is a menu-driven Rock Paper Scissors game developed using Python.
+  The user plays against the computer, where the computer’s choice is generated randomly.
+  The project demonstrates the use of Object-Oriented Programming, loops, conditional logic, and randomization.
+  ###Features:
+     1. User vs Computer gameplay
+     2. Random computer choice using 'random' module
+     3. Menu-driven interface
+     4. Continuous gameplay using a 'while' loop
+     5. Score tracking for user and computer
+     6. Clear win, lose, and tie result display
+
+  ###How to run:
+     1. Download the repository
+     2. Open terminal or command prompt
+     3. Run: python RockPaperScissorsGame.py
         
 ## Technologies Used
 - Python
